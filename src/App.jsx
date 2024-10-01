@@ -20,6 +20,7 @@ function App() {
       <div>
         <h1>Spanish Verbs</h1>
         <p>Please click on each card to reveal the definition of the verb.</p>
+        <p>Total number of cards: 10</p>
       </div>
 
       <Flashcard
