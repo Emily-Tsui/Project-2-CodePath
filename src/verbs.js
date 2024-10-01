@@ -1,27 +1,27 @@
 const verbs = [
     {
-        word: "Hablar",
-        definition: "To speak",
+        word: "Necesitar",
+        definition: "To need",
         type: "verb",
       },
       {
-        word: "Comer",
-        definition: "To eat",
+        word: "Querer",
+        definition: "To want",
         type: "verb",
       },
       {
-        word: "Vivir",
-        definition: "To live",
+        word: "Jugar",
+        definition: "To play",
         type: "verb",
       },
       {
-        word: "Casa",
-        definition: "House",
+        word: "Zapatos",
+        definition: "Shoes",
         type: "noun",
       },
       {
-        word: "Perro",
-        definition: "Dog",
+        word: "Abrigo",
+        definition: "Coat",
         type: "noun",
       },
       {
@@ -34,7 +34,21 @@ const verbs = [
         definition: "You",
         type: "pronoun",
       },
-      // Add more words as needed
+      {
+        word: "El/Ella/Ud",
+        definition: "He/She/They",
+        type: "pronoun",
+      },
+      {
+        word: "Nosotros",
+        definition: "We",
+        type: "pronoun",
+      },
+      {
+        word: "Vosotros",
+        definition: "Them",
+        type: "pronoun",
+      },
     ];
     
     export default verbs;
